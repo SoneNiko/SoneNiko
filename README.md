@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nikolas H.</h1>
+<h1 align="center">Hi 👋, I'm Nikolas Heise</h1>
 <h3 align="center">A CompSci Student in germany with an interest in Software Engineering and Cyber Security.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soneniko&label=Profile%20views&color=0e75b6&style=flat" alt="soneniko" /> </p>
