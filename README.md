@@ -15,6 +15,8 @@
 
 - 📄 Know about my experiences [https://www.sonefall.com/cv](https://www.sonefall.com/cv)
 
+- By The way: The languages you see below are not accurate. I deleted a bunch of repositories
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=soneniko&show_icons=true&locale=en&layout=compact" alt="soneniko" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=soneniko&show_icons=true&locale=en" alt="soneniko" /></p>
