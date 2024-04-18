@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on Nothing at all
 
-- 🌱 I’m currently learning **Haskell, JavaScript, React, PowerShell, Kotlin.**
+- 🌱 I’m currently learning ** PHP, Kotlin, Go **
 
 - 👨‍💻 All of my projects will be available at [https://www.sonefall.com/projects](https://www.sonefall.com/projects)
 
