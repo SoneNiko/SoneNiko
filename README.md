@@ -5,15 +5,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=soneniko" alt="soneniko" /></a> </p>
 
-- 🔭 I’m currently working on my [Webcrawler for finding broken links](https://www.sonefall.com/projects/broken-link-traverser).
+- 🔭 I’m currently working on my [Webcrawler for finding broken links](https://www.nikoh.dev/projects/broken-link-traverser).
 
 - 🌱 I’m currently learning ** PHP, Kotlin **
 
-- 👨‍💻 All of my projects will be available at [https://www.sonefall.com/projects](https://www.sonefall.com/projects)
+- 👨‍💻 All of my projects will be available at [https://www.sonefall.com/projects](https://www.nikoh.dev/projects)
 
 - 💬 Ask me about **Database Systems, Java, Web Technologies, and a lot of other useless knowledge**
 
-- 📄 Know about my experiences [https://www.sonefall.com/cv](https://www.sonefall.com/cv)
+- 📄 Know about my experiences [https://www.sonefall.com/cv](https://www.nikoh.dev/cv)
 
 - By The way: The languages you see below are not accurate. I deleted a bunch of repositories
 
