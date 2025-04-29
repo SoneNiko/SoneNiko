@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on my [Webcrawler for finding broken links](https://www.nikoh.dev/projects/broken-link-traverser).
 
-- 🌱 I’m currently learning ** PHP, Kotlin **
+- 🌱 I’m currently learning **PHP, Kotlin**
 
 - 👨‍💻 All of my projects will be available at [https://www.sonefall.com/projects](https://www.nikoh.dev/projects)
 
-- 💬 Ask me about **Database Systems, Java, Web Technologies, and a lot of other useless knowledge**
+- 💬 Ask me about **Monitoring/Observability, Pipelines, Docker**
 
 - 📄 Know about my experiences [https://www.sonefall.com/cv](https://www.nikoh.dev/cv)
 
