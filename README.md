@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **PHP, Kotlin, Rust**
 
-- 👨‍💻 All of my projects will be available at [https://www.nikoh.dev/projects](https://www.nikoh.dev/projects)
+- 👨‍💻 All of my projects will be available at [https://www.nikohei.se/projects](https://www.nikohei.se/projects)
 
-- 📄 Know about my experiences [https://www.nikoh.dev/cv](https://www.nikoh.dev/cv)
+- 📄 Know about my experiences [https://www.nikohei.se/cv](https://www.nikohei.se/cv)
 
 - By The way: The languages you see below are not accurate. I deleted a bunch of repositories
 
