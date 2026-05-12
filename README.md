@@ -5,20 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=soneniko" alt="soneniko" /></a> </p>
 
-- 🌱 I’m currently learning **PHP, Kotlin, Rust**
+- 🌱 I’m currently learning **Kotlin, Rust**
 
 - 👨‍💻 All of my projects will be available at [https://www.nikohei.se/projects](https://www.nikohei.se/projects)
 
 - 📄 Know about my experiences [https://www.nikohei.se/cv](https://www.nikohei.se/cv)
-
-- By The way: The languages you see below are not accurate. I deleted a bunch of repositories
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=soneniko&show_icons=true&locale=en&layout=compact" alt="soneniko" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=soneniko&show_icons=true&locale=en" alt="soneniko" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=soneniko&" alt="soneniko" /></p>
-
 
 
 <!--
